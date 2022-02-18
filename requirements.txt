@@ -4,9 +4,7 @@ pymysql
 wtforms
 flask_wtf
 pytest
-<<<<<<< HEAD
 pytest-cov
-=======
 pytest-cov
 flask_testing
->>>>>>> 49291b47a48c1a2a0b5325ee9906e5c504497e08
+
